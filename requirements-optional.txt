@@ -1,0 +1,3 @@
+# Optional, only needed for transformer embeddings/sentiment experiments.
+torch>=2.0
+transformers>=4.36
